@@ -1,0 +1,10 @@
+D:\Dev Test\MyConsole\XO.Registry.Utility\obj\Debug\ResolveAssemblyReference.cache
+D:\Dev Test\MyConsole\XO.Registry.Utility\bin\Debug\XO.Registry.Utility.dll
+D:\Dev Test\MyConsole\XO.Registry.Utility\bin\Debug\XO.Registry.Utility.pdb
+D:\Dev Test\MyConsole\XO.Registry.Utility\obj\Debug\XO.Registry.Utility.dll
+D:\Dev Test\MyConsole\XO.Registry.Utility\obj\Debug\XO.Registry.Utility.pdb
+C:\E\MyConsole\XO.Registry.Utility\bin\Debug\XO.Registry.Utility.dll
+C:\E\MyConsole\XO.Registry.Utility\bin\Debug\XO.Registry.Utility.pdb
+C:\E\MyConsole\XO.Registry.Utility\obj\Debug\ResolveAssemblyReference.cache
+C:\E\MyConsole\XO.Registry.Utility\obj\Debug\XO.Registry.Utility.dll
+C:\E\MyConsole\XO.Registry.Utility\obj\Debug\XO.Registry.Utility.pdb

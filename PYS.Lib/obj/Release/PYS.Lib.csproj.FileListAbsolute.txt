@@ -1,0 +1,5 @@
+D:\Dev Test\Lib\PYS.Lib\bin\Release\PYS.Lib.dll
+D:\Dev Test\Lib\PYS.Lib\bin\Release\PYS.Lib.pdb
+D:\Dev Test\Lib\PYS.Lib\obj\Release\PYS.Lib.dll
+D:\Dev Test\Lib\PYS.Lib\obj\Release\PYS.Lib.pdb
+D:\Dev Test\Lib\PYS.Lib\obj\Release\PYS.Lib.csprojResolveAssemblyReference.cache

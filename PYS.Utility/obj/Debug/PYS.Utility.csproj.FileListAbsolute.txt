@@ -1,0 +1,12 @@
+D:\Dev Test\MyConsole\PYS.Utility\bin\Debug\PYS.Utility.dll
+D:\Dev Test\MyConsole\PYS.Utility\bin\Debug\PYS.Utility.pdb
+D:\Dev Test\MyConsole\PYS.Utility\obj\Debug\PYS.Utility.dll
+D:\Dev Test\MyConsole\PYS.Utility\obj\Debug\PYS.Utility.pdb
+D:\Dev Test\MyConsole\PYS.Utility\obj\Debug\PYS.Utility.csprojResolveAssemblyReference.cache
+D:\Dev Test\PYSConsole\PYS.Utility\bin\Debug\PYS.Utility.dll
+D:\Dev Test\PYSConsole\PYS.Utility\bin\Debug\PYS.Utility.pdb
+D:\Dev Test\PYSConsole\PYS.Utility\bin\Debug\PYS.Entity.dll
+D:\Dev Test\PYSConsole\PYS.Utility\bin\Debug\PYS.Entity.pdb
+D:\Dev Test\PYSConsole\PYS.Utility\obj\Debug\PYS.Utility.csprojResolveAssemblyReference.cache
+D:\Dev Test\PYSConsole\PYS.Utility\obj\Debug\PYS.Utility.dll
+D:\Dev Test\PYSConsole\PYS.Utility\obj\Debug\PYS.Utility.pdb

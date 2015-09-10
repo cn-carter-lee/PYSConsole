@@ -1,0 +1,6 @@
+D:\Dev Test\PYSConsole\PYS.Entity\bin\Debug\PYS.Entity.dll
+D:\Dev Test\PYSConsole\PYS.Entity\bin\Debug\PYS.Entity.pdb
+D:\Dev Test\PYSConsole\PYS.Entity\bin\Debug\EntityFramework.dll
+D:\Dev Test\PYSConsole\PYS.Entity\obj\Debug\PYS.Entity.csprojResolveAssemblyReference.cache
+D:\Dev Test\PYSConsole\PYS.Entity\obj\Debug\PYS.Entity.dll
+D:\Dev Test\PYSConsole\PYS.Entity\obj\Debug\PYS.Entity.pdb

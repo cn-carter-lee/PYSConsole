@@ -1,0 +1,15 @@
+D:\Dev Test\MyConsole\PYS.Lib\bin\Debug\PYS.Lib.dll
+D:\Dev Test\MyConsole\PYS.Lib\bin\Debug\PYS.Lib.pdb
+D:\Dev Test\MyConsole\PYS.Lib\obj\Debug\PYS.Lib.dll
+D:\Dev Test\MyConsole\PYS.Lib\obj\Debug\PYS.Lib.pdb
+D:\Dev Test\Lib\PYS.Lib\bin\Debug\PYS.Lib.dll
+D:\Dev Test\Lib\PYS.Lib\bin\Debug\PYS.Lib.pdb
+D:\Dev Test\Lib\PYS.Lib\obj\Debug\PYS.Lib.dll
+D:\Dev Test\Lib\PYS.Lib\obj\Debug\PYS.Lib.pdb
+D:\Dev Test\Lib\PYS.Lib\obj\Debug\PYS.Lib.csprojResolveAssemblyReference.cache
+D:\Dev Test\MyConsole\PYS.Lib\obj\Debug\PYS.Lib.csprojResolveAssemblyReference.cache
+D:\Dev Test\PYSConsole\PYS.Lib\bin\Debug\PYS.Lib.dll
+D:\Dev Test\PYSConsole\PYS.Lib\bin\Debug\PYS.Lib.pdb
+D:\Dev Test\PYSConsole\PYS.Lib\obj\Debug\PYS.Lib.dll
+D:\Dev Test\PYSConsole\PYS.Lib\obj\Debug\PYS.Lib.pdb
+D:\Dev Test\PYSConsole\PYS.Lib\obj\Debug\PYS.Lib.csprojResolveAssemblyReference.cache

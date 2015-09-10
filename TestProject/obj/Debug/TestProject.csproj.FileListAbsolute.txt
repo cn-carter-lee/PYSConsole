@@ -1,0 +1,14 @@
+D:\Dev Test\MyConsole\TestProject\bin\Debug\TestProject1.dll
+D:\Dev Test\MyConsole\TestProject\bin\Debug\TestProject1.pdb
+D:\Dev Test\MyConsole\TestProject\bin\Debug\MyConsole.exe
+D:\Dev Test\MyConsole\TestProject\bin\Debug\PYS.Lib.dll
+D:\Dev Test\MyConsole\TestProject\bin\Debug\MyConsole.pdb
+D:\Dev Test\MyConsole\TestProject\bin\Debug\PYS.Lib.pdb
+D:\Dev Test\MyConsole\TestProject\obj\Debug\TestProject1.dll
+D:\Dev Test\MyConsole\TestProject\obj\Debug\TestProject1.pdb
+D:\Dev Test\MyConsole\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+D:\Dev Test\PYSConsole\TestProject\bin\Debug\TestProject1.dll
+D:\Dev Test\PYSConsole\TestProject\bin\Debug\TestProject1.pdb
+D:\Dev Test\PYSConsole\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+D:\Dev Test\PYSConsole\TestProject\obj\Debug\TestProject1.dll
+D:\Dev Test\PYSConsole\TestProject\obj\Debug\TestProject1.pdb

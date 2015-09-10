@@ -1,0 +1,18 @@
+D:\Dev Test\MyConsole\TestProject1\bin\Debug\TestProject1.dll
+D:\Dev Test\MyConsole\TestProject1\bin\Debug\TestProject1.pdb
+D:\Dev Test\MyConsole\TestProject1\bin\Debug\MyConsole.exe
+D:\Dev Test\MyConsole\TestProject1\bin\Debug\MyConsole.pdb
+D:\Dev Test\MyConsole\TestProject1\obj\Debug\ResolveAssemblyReference.cache
+D:\Dev Test\MyConsole\TestProject1\obj\Debug\TestProject1.dll
+D:\Dev Test\MyConsole\TestProject1\obj\Debug\TestProject1.pdb
+C:\E\MyConsole\TestProject1\bin\Debug\TestProject1.dll
+C:\E\MyConsole\TestProject1\bin\Debug\TestProject1.pdb
+C:\E\MyConsole\TestProject1\bin\Debug\MyConsole.exe
+C:\E\MyConsole\TestProject1\bin\Debug\EntityFramework.dll
+C:\E\MyConsole\TestProject1\bin\Debug\System.Data.SQLite.dll
+C:\E\MyConsole\TestProject1\bin\Debug\MyConsole.pdb
+C:\E\MyConsole\TestProject1\obj\Debug\ResolveAssemblyReference.cache
+C:\E\MyConsole\TestProject1\obj\Debug\TestProject1.dll
+C:\E\MyConsole\TestProject1\obj\Debug\TestProject1.pdb
+D:\Dev Test\MyConsole\TestProject1\bin\Debug\PYS.Lib.dll
+D:\Dev Test\MyConsole\TestProject1\bin\Debug\PYS.Lib.pdb
