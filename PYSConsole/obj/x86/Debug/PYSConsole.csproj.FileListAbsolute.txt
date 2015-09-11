@@ -13,3 +13,18 @@ D:\Dev Test\PYSConsole\PYSConsole\obj\x86\Debug\PYSConsole.pdb
 D:\Dev Test\PYSConsole\PYSConsole\bin\Debug\Resources\Wedding_EnclosureCards.jpg
 D:\Dev Test\PYSConsole\PYSConsole\bin\Debug\Autofac.dll
 D:\Dev Test\PYSConsole\PYSConsole\bin\Debug\Autofac.Integration.Mvc.dll
+D:\Temp\PYSConsole\PYSConsole\bin\Debug\PYSConsole.exe.config
+D:\Temp\PYSConsole\PYSConsole\obj\x86\Debug\PYSConsole.exe
+D:\Temp\PYSConsole\PYSConsole\obj\x86\Debug\PYSConsole.pdb
+D:\Temp\PYSConsole\PYSConsole\bin\Debug\Resources\Wedding_EnclosureCards.jpg
+D:\Temp\PYSConsole\PYSConsole\bin\Debug\PYSConsole.exe
+D:\Temp\PYSConsole\PYSConsole\bin\Debug\PYSConsole.pdb
+D:\Temp\PYSConsole\PYSConsole\bin\Debug\Autofac.dll
+D:\Temp\PYSConsole\PYSConsole\bin\Debug\Autofac.Integration.Mvc.dll
+D:\Temp\PYSConsole\PYSConsole\bin\Debug\PYS.Entity.dll
+D:\Temp\PYSConsole\PYSConsole\bin\Debug\PYS.Lib.dll
+D:\Temp\PYSConsole\PYSConsole\bin\Debug\PYS.Utility.dll
+D:\Temp\PYSConsole\PYSConsole\bin\Debug\PYS.Entity.pdb
+D:\Temp\PYSConsole\PYSConsole\bin\Debug\PYS.Lib.pdb
+D:\Temp\PYSConsole\PYSConsole\bin\Debug\PYS.Utility.pdb
+D:\Temp\PYSConsole\PYSConsole\obj\x86\Debug\PYSConsole.csprojResolveAssemblyReference.cache

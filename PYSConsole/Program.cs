@@ -35,23 +35,44 @@ public class PYSConsole
 {
     public static void Main()
     {
-        string input = "<a href=\"http://www.target.com/RegistryGiftGiverCmd?isPreview=false&amp;status=completePageLink®istryType=BB&amp;isAjax=false&amp;listId=qr5aAYL6-UxlDyY8DhBlTA&amp;clkid=wT20fuXaEX-dyTA0opSPP2wlUkQ0k6VR2QUVWU0&amp;lnm=Online Tracking Link&amp;afid=The Knot%2C Inc. and Subsidiaries&amp;ref=tgt_adv_xasd0002\">http://www.target.com/RegistryGiftGiverCmd?isPreview=false&amp;status=completePageLink&reg;istryType=BB&amp;isAjax=false&amp;listId=qr5aAYL6-UxlDyY8DhBlTA&amp;clkid=wT20fuXaEX-dyTA0opSPP2wlUkQ0k6VR2QUVWU0&amp;lnm=Online Tracking Link&amp;afid=Thehttp://uw.thebump.com/admin/edit/34393925 Knot%2C Inc. and Subsidiaries&amp;ref=tgt_adv_</a>";
-        string str1 = "http://www.target.com/RegistryGiftGiverCmd?isPreview=false&amp;status=completePageLink®istryType=BB&amp;isAjax=false&amp;listId=qr5aAYL6-UxlDyY8DhBlTA&amp;clkid=wT20fuXaEX-dyTA0opSPP2wlUkQ0k6VR2QUVWU0&amp;lnm=Online Tracking Link&amp;afid=The Knot%2C Inc. and Subsidiaries&amp;ref=tgt_adv_xasd0002";
+        int i = Test();
+        string s = "";
+    }
 
-        Regex regex = new Regex(str1.Trim());
-        string result = input.Replace(str1, "RRRRR");
+    static void StringTest()
+    {
 
-        // string result = regex.Replace(input, "RRRRR", 1);
+        string a = "";
+        StringBuilder builder = new StringBuilder();
 
+        DateTime now = DateTime.Now;
 
-        // TestExcel.Run();
-        // string filePath = @"C:\Users\cli\Desktop\assembles.txt";
-        // GlobalAssemblyCache.Test(filePath);
-        //LandingType L = LandingType.Filter_Price0_49;
-        //string a = L.ToDescription();
-        //LandingType L2 = LandingType.Manage_URLSettings;
-        //string b = L2.ToDescription();
-        //Console.ReadKey();
+        string name = "";
+        switch (name)
+        {
+            case "Carter": break;
+            case "Lee": break;
+            default: break;
+        }
+    }
+
+    static int Test()
+    {
+        int i = 0;
+
+        try
+        {
+            i = 100;
+            return i;
+        }
+        catch
+        { }
+        finally
+        {
+            i = 500;
+        }
+
+        return 0;
     }
 
 
@@ -86,6 +107,21 @@ public class PYSConsole
     }
 
 }
+
+// 属性是一种成员，它提供灵活的机制来读取、写入或计算私有字段的值。 属性可用作公共数据成员，但它们实际上是称为“访问器”的特殊方法。 这使得可以轻松访问数据，还有助于提高方法的安全性和灵活性。
+class TimePeriod
+{
+    private double seconds;
+
+    public double Hours
+    {
+        get { return seconds / 3600; }
+        set { seconds = value * 3600; }
+    }
+}
+
+
+
 
 
 

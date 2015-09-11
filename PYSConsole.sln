@@ -18,6 +18,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PYS.Entity", "PYS.Entity\PY
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dependency", "Dependency", "{3DA795DA-1466-4B98-97C0-5C3E2A7FF10E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PYS.Tutorial", "PYS.Tutorial\PYS.Tutorial.csproj", "{E98D6F52-7E90-4551-A559-E860636EFFCC}"
+EndProject
 Global
 	GlobalSection(TestCaseManagementSettings) = postSolution
 		CategoryFile = PYSConsole.vsmdi
@@ -81,6 +83,18 @@ Global
 		{682C268E-5E15-4092-AD0B-B2429A51303A}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{682C268E-5E15-4092-AD0B-B2429A51303A}.Release|Win32.ActiveCfg = Release|Any CPU
 		{682C268E-5E15-4092-AD0B-B2429A51303A}.Release|x86.ActiveCfg = Release|Any CPU
+		{E98D6F52-7E90-4551-A559-E860636EFFCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E98D6F52-7E90-4551-A559-E860636EFFCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E98D6F52-7E90-4551-A559-E860636EFFCC}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{E98D6F52-7E90-4551-A559-E860636EFFCC}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{E98D6F52-7E90-4551-A559-E860636EFFCC}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{E98D6F52-7E90-4551-A559-E860636EFFCC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{E98D6F52-7E90-4551-A559-E860636EFFCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E98D6F52-7E90-4551-A559-E860636EFFCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E98D6F52-7E90-4551-A559-E860636EFFCC}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{E98D6F52-7E90-4551-A559-E860636EFFCC}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{E98D6F52-7E90-4551-A559-E860636EFFCC}.Release|Win32.ActiveCfg = Release|Any CPU
+		{E98D6F52-7E90-4551-A559-E860636EFFCC}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -89,5 +103,6 @@ Global
 		{E5C44F74-8516-47D3-BE3C-B51C82EB603A} = {3DA795DA-1466-4B98-97C0-5C3E2A7FF10E}
 		{682C268E-5E15-4092-AD0B-B2429A51303A} = {3DA795DA-1466-4B98-97C0-5C3E2A7FF10E}
 		{99952342-D195-460F-A2C6-57B9F66AD09D} = {3DA795DA-1466-4B98-97C0-5C3E2A7FF10E}
+		{E98D6F52-7E90-4551-A559-E860636EFFCC} = {3DA795DA-1466-4B98-97C0-5C3E2A7FF10E}
 	EndGlobalSection
 EndGlobal

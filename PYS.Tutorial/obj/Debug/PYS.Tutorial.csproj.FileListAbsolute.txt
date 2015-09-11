@@ -1,0 +1,4 @@
+D:\Temp\PYSConsole\PYS.Tutorial\bin\Debug\PYS.Tutorial.dll
+D:\Temp\PYSConsole\PYS.Tutorial\bin\Debug\PYS.Tutorial.pdb
+D:\Temp\PYSConsole\PYS.Tutorial\obj\Debug\PYS.Tutorial.dll
+D:\Temp\PYSConsole\PYS.Tutorial\obj\Debug\PYS.Tutorial.pdb
